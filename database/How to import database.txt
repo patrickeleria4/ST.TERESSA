@@ -1,0 +1,1 @@
+mysqldump -u root -p archiving_db>C:\xampp\htdocs\Document-Archiving-System\database\archiving_db.sql
